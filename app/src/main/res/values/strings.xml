@@ -4,4 +4,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="check_in_question">What goal are you working on?</string>
+    <string name="check_in_1">Mental</string>
+    <string name="check_in_2">Physical</string>
+    <string name="check_in_3">Nutritional</string>
 </resources>
