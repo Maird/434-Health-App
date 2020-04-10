@@ -10,6 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
+        android:src="@drawable/user_pic"
         android:padding="5dp" />
 
     <LinearLayout
@@ -34,28 +35,39 @@
             <EditText
                 android:id="@+id/profileName"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="Profile Name"/>
+
+            <EditText
+                android:id="@+id/profileDOB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Birthday"/>
 
 
             <EditText
-                android:id="@+id/achievedGoals"
+                android:id="@+id/awards"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:text="Awards"/>
 
             <EditText
                 android:id="@+id/profileInterests"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:text="Interests"/>
 
             <EditText
                 android:id="@+id/profilePlaylists"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:text="Playlists"/>
 
             <EditText
                 android:id="@+id/profileStats"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:text="Stats"/>
 
 
         </LinearLayout>
