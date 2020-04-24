@@ -67,17 +67,18 @@
 
         <Button
             android:id="@+id/adds_goals"
-            android:layout_width="217dp"
-            android:layout_height="65dp"
-            android:background="#ffe34d"
+            android:layout_width="290dp"
+            android:layout_height="154dp"
+            android:background="@drawable/custom_button"
             android:text="@string/add_new_goal"
-            android:textColor="#4d69ff"
+            android:textColor="#ffe34d"
             android:textSize="24sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintHorizontal_bias="0.52"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView4"
+            app:layout_constraintVertical_bias="0.804"
             tools:text="@string/add_new_goal" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
