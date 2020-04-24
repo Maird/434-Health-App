@@ -3,15 +3,15 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
+    <!--<ImageView
         android:id="@+id/profilePic"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
-        android:src="@drawable/user_pic"
-        android:padding="5dp" />
+        android:src="@drawable/user_pic" can't find this
+        android:padding="5dp" />  -->
 
     <LinearLayout
         android:layout_width="match_parent"

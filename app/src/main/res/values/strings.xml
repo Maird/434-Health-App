@@ -10,5 +10,5 @@
     <string name="check_in_3">Nutritional</string>
     <string name= "current_goals">Your current goals</string>
     <string name= "add_new_goal">Add a new goal</string>
-    <string name="chosen_goal">What kind of goal would you like to choose?</string>
+    <string name="chosen_goal">What kind of goal would you like to set?</string>
 </resources>
