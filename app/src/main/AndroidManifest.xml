@@ -13,6 +13,9 @@
         <activity
             android:name=".Goals_Activity"
             android:label="@string/title_activity_goals_" />
+        <activity
+            android:name=".activity_types_of_goals"
+            android:label="activity_types_of_goals"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
