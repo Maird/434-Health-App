@@ -73,12 +73,12 @@
         app:layout_constraintVertical_bias="0.818" />
 
     <Button
-        android:id="@+id/reduce_stress_button"
+        android:id="@+id/lose_weight_button"
         android:layout_width="227dp"
         android:layout_height="105dp"
         android:layout_marginTop="364dp"
         android:background="@drawable/custom_button"
-        android:text="@string/reduce_stress"
+        android:text="@string/lose_weight"
         android:textColor="#ffe34d"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -86,11 +86,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/new_mental_title"
+        android:id="@+id/new_physical_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/new_mental_goal"
+        android:text="@string/new_physical_goal"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#4d69ff"
         android:textSize="36sp"
@@ -100,12 +100,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/build_confidence_button"
+        android:id="@+id/build_muscle_button"
         android:layout_width="227dp"
         android:layout_height="105dp"
         android:layout_marginTop="144dp"
         android:background="@drawable/custom_button"
-        android:text="@string/build_confidence"
+        android:text="@string/build_muscle"
         android:textColor="#ffe34d"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"

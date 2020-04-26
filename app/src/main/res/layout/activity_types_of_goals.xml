@@ -11,29 +11,29 @@
 
         <Button
             android:id="@+id/nutrition_goal"
-            android:layout_width="413dp"
-            android:layout_height="170dp"
+            android:layout_width="375dp"
+            android:layout_height="130dp"
             android:background="@drawable/custom_button"
             android:text="@string/check_in_3"
             android:textColor="#ffe34d"
             android:textSize="24sp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintHorizontal_bias="0.444"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/physical_goal" />
 
         <Button
             android:id="@+id/physical_goal"
-            android:layout_width="413dp"
-            android:layout_height="170dp"
+            android:layout_width="375dp"
+            android:layout_height="130dp"
             android:background="@drawable/custom_button"
             android:text="@string/check_in_2"
             android:textColor="#ffe34d"
             android:textSize="24sp"
             app:layout_constraintBottom_toTopOf="@+id/nutrition_goal"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="1.0"
+            app:layout_constraintHorizontal_bias="0.444"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/mental_goal" />
 
@@ -52,8 +52,10 @@
 
         <Button
             android:id="@+id/mental_goal"
-            android:layout_width="413dp"
-            android:layout_height="170dp"
+            android:layout_width="375dp"
+            android:layout_height="130dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginRight="20dp"
             android:background="@drawable/custom_button"
             android:text="@string/check_in_1"
             android:textColor="@color/accent"

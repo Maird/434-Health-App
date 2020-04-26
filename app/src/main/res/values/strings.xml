@@ -11,12 +11,13 @@
     <string name="current_goals">Your current goals</string>
     <string name="add_new_goal">Add a new goal</string>
     <string name="chosen_goal">What kind of goal would you like to set?</string>
+
+    <string name="features"> Ways Rooted Health can help: </string>
+
     <string name="new_mental_goal">How would you like to improve your mental health?</string>
     <string name="reduce_stress">Reduce Stress</string>
     <string name="build_confidence">Build Confidence</string>
 
-
-    <string name="features"> Ways Rooted Health can help: </string>
     <string name="confidence_features1"> &#8226; Words of Affirmation </string>
     <string name="confidence_features2"> &#8226; Daily reminders to challenge yourself </string>
     <string name="confidence_features3"> &#8226; Send you articles of ways to improve yourself </string>
@@ -24,5 +25,18 @@
     <string name="stress_features1"> &#8226; Reminder to take breaks </string>
     <string name="stress_features2"> &#8226; Hourly reminders to drink water </string>
     <string name="stress_features3"> &#8226; Send you calming videos </string>
+
+
+    <string name="new_physical_goal">How would you like to improve your physical health?</string>
+    <string name="lose_weight">Lose Weight</string>
+    <string name="build_muscle">Build Muscle</string>
+
+    <string name="weight_features1"> &#8226; Words of Affirmation </string>
+    <string name="weight_features2"> &#8226; Daily reminders to challenge yourself </string>
+    <string name="weight_features3"> &#8226; Send you articles of ways to improve yourself </string>
+
+    <string name="muscle_features1"> &#8226; Reminder to take breaks </string>
+    <string name="muscle_features2"> &#8226; Hourly reminders to drink water </string>
+    <string name="muscle_features3"> &#8226; Send you calming videos </string>
 
 </resources>

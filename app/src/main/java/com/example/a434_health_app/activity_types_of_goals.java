@@ -18,9 +18,27 @@ public class activity_types_of_goals extends AppCompatActivity {
 
 
 
-        Button addGoalsButton = findViewById(R.id.mental_goal);
+        Button addMentslGoalsButton = findViewById(R.id.mental_goal);
 
-        addGoalsButton.setOnClickListener(new View.OnClickListener() {
+        addMentslGoalsButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                System.out.println("Button Clicked");
+                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+            }
+        });
+
+        Button addPhysicalGoalsButton = findViewById(R.id.physical_goal);
+
+        addPhysicalGoalsButton.setOnClickListener(new View.OnClickListener() {
+            public void onClick(View v) {
+                System.out.println("Button Clicked");
+                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+            }
+        });
+
+        Button addNutritionalGoalsButton = findViewById(R.id.nutrition_goal);
+
+        addNutritionalGoalsButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
                 startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
