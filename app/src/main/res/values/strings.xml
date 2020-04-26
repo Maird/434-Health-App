@@ -31,12 +31,25 @@
     <string name="lose_weight">Lose Weight</string>
     <string name="build_muscle">Build Muscle</string>
 
-    <string name="weight_features1"> &#8226; Words of Affirmation </string>
-    <string name="weight_features2"> &#8226; Daily reminders to challenge yourself </string>
-    <string name="weight_features3"> &#8226; Send you articles of ways to improve yourself </string>
+    <string name="weight_features1"> &#8226; Weight loss tips </string>
+    <string name="weight_features2"> &#8226; Daily reminders to exercise </string>
+    <string name="weight_features3"> &#8226; Words of encouragement </string>
 
-    <string name="muscle_features1"> &#8226; Reminder to take breaks </string>
-    <string name="muscle_features2"> &#8226; Hourly reminders to drink water </string>
-    <string name="muscle_features3"> &#8226; Send you calming videos </string>
+    <string name="muscle_features1"> &#8226; Recommend specific exercises for targeted areas </string>
+    <string name="muscle_features2"> &#8226; Reminders to eat every 3 hours </string>
+    <string name="muscle_features3"> &#8226; suggest post-workout meals &amp; supplements </string>
+
+
+    <string name="new_nutrition_goal">How would you like to improve your nutrition health?</string>
+    <string name="improve_cooking">Improve cooking</string>
+    <string name="healthy_eating">Healthy eating</string>
+
+    <string name="cooking_features1"> &#8226; Reminders to cook instead of eating out </string>
+    <string name="cooking_features2"> &#8226; Send you healthy and testy recipes </string>
+    <string name="cooking_features3"> &#8226; Cooking tutorials </string>
+
+    <string name="eating_features1"> &#8226; Recommend foods to avoid </string>
+    <string name="eating_features2"> &#8226; Set calorie limits </string>
+    <string name="eating_features3"> &#8226; Reminder to drink water &amp; avoid snacking </string>
 
 </resources>
