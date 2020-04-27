@@ -18,6 +18,16 @@
     <string name="reduce_stress">Reduce Stress</string>
     <string name="build_confidence">Build Confidence</string>
 
+    <string name="exercise">Which type of exercise did you do today?</string>
+    <string name="walking_exercise">Walking</string>
+    <string name="jogging_exercise">Jogging</string>
+    <string name="cycling_exercise">Cycling</string>
+    <string name="squats_exercise">Squats</string>
+    <string name="pushups_exercise">Push-ups</string>
+    <string name="jumping_jacks_exercise">Jumping Jacks</string>
+    <string name="current_weight">What is your weight today?</string>
+    <string name="submit_btn">SUBMIT</string>
+        
     <string name="confidence_features1"> &#8226; Words of Affirmation </string>
     <string name="confidence_features2"> &#8226; Daily reminders to challenge yourself </string>
     <string name="confidence_features3"> &#8226; Send you articles of ways to improve yourself </string>
@@ -32,8 +42,6 @@
     <string name="four_scale">I feel miserable and nothings getting better.</string>
     <string name="five_scale">I feel like I reached an all time low today. </string>
     <string name="select_mood">Select a button on the right to match how you feel. </string>
-
-
 
 
     <string name="new_physical_goal">How would you like to improve your physical health?</string>
