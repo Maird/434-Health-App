@@ -13,6 +13,8 @@
         <activity android:name=".Physical_Goal" />
         <activity android:name=".Mental_Goal" />
         <activity android:name=".HomeActivity" />
+        <activity android:name=".Checkin_Activity" />
+        <activity android:name=".Mental_Checkin" />
         <activity
             android:name=".Goals_Activity"
             android:label="@string/title_activity_goals_" />
