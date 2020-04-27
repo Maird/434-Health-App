@@ -20,7 +20,7 @@ public class Mental_Goal extends AppCompatActivity {
         reduce_stress_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Stress_Goal_popup.class));
             }
         });
 
@@ -30,7 +30,7 @@ public class Mental_Goal extends AppCompatActivity {
         build_confidence_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Confidence_Goal_popup.class));
             }
         });
     }
