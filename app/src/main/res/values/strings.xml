@@ -11,7 +11,7 @@
     <string name="current_goals">Your current goals</string>
     <string name="add_new_goal">Add a new goal</string>
     <string name="chosen_goal">What kind of goal would you like to set?</string>
-
+    <string name="check_in_question">What goal are you currently working on?</string>
     <string name="features"> Ways Rooted Health can help: </string>
 
     <string name="new_mental_goal">How would you like to improve your mental health?</string>
@@ -25,6 +25,15 @@
     <string name="stress_features1"> &#8226; Reminder to take breaks </string>
     <string name="stress_features2"> &#8226; Hourly reminders to drink water </string>
     <string name="stress_features3"> &#8226; Send you calming videos </string>
+
+    <string name="one_scale">Everything is a-Okay!</string>
+    <string name="two_scale">Things are bothering me, but im coping.</string>
+    <string name="three_scale">My mental health today really impacted my day.</string>
+    <string name="four_scale">I feel miserable and nothings getting better.</string>
+    <string name="five_scale">I feel like I reached an all time low today. </string>
+    <string name="select_mood">Select a button on the right to match how you feel. </string>
+
+    <string name="check_in_question">What goal are you currently working on?</string>
 
 
     <string name="new_physical_goal">How would you like to improve your physical health?</string>
