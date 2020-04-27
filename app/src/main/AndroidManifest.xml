@@ -9,16 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Nutrition_Goal"></activity>
+        <activity android:name=".Physical_Checkin"></activity>
+        <activity android:name=".Nutrition_Goal" />
         <activity android:name=".Physical_Goal" />
         <activity android:name=".Mental_Goal" />
         <activity android:name=".HomeActivity" />
         <activity android:name=".Checkin_Activity" />
         <activity android:name=".Mental_Checkin" />
         <activity android:name=".Profile_Activity" />
-        <activity android:name=".Set_Confidence_Goal_popup"
-            android:theme="@style/AppTheme.popupTheme"/>
-        <activity android:name=".Set_Stress_Goal_popup" />
+
         <activity
             android:name=".Goals_Activity"
             android:label="@string/title_activity_goals_" />
