@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Physical_Checkin"></activity>
+        <activity android:name=".ProgressGarden"></activity>
         <activity android:name=".Nutrition_Goal" />
         <activity android:name=".Physical_Goal" />
         <activity android:name=".Mental_Goal" />
