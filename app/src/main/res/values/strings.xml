@@ -4,19 +4,32 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="check_in_question">What goal are you working on?</string>
+    <string name="check_in_question">What goal are you currently working on?</string>
     <string name="check_in_1">Mental</string>
     <string name="check_in_2">Physical</string>
     <string name="check_in_3">Nutritional</string>
     <string name="current_goals">Your current goals</string>
     <string name="add_new_goal">Add a new goal</string>
-    <string name="chosen_goal">What kind of goal would you like to set?</string>
+
+
 
     <string name="features"> Ways Rooted Health can help: </string>
 
     <string name="new_mental_goal">How would you like to improve your mental health?</string>
     <string name="reduce_stress">Reduce Stress</string>
     <string name="build_confidence">Build Confidence</string>
+
+    <string name="chosen_goal">What kind of goal would you like to set?</string>
+    <string name="mental_tracking">How are you feeling today?</string>
+
+    <string name="one_scale">Everything is a-Okay!</string>
+    <string name="two_scale">Things are bothering me, but im coping.</string>
+    <string name="three_scale">My mental health today really impacted my day.</string>
+    <string name="four_scale">I feel miserable and nothings getting better.</string>
+    <string name="five_scale">I feel like I reached an all time low today. </string>
+    <string name="select_mood">Select a button on the right to match how you feel. </string>
+
+
 
     <string name="confidence_features1"> &#8226; Words of Affirmation </string>
     <string name="confidence_features2"> &#8226; Daily reminders to challenge yourself </string>
@@ -38,5 +51,6 @@
     <string name="muscle_features1"> &#8226; Reminder to take breaks </string>
     <string name="muscle_features2"> &#8226; Hourly reminders to drink water </string>
     <string name="muscle_features3"> &#8226; Send you calming videos </string>
+    <string name="title_activity_checkin_">Checkin_Activity</string>
 
 </resources>
