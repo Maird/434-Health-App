@@ -32,7 +32,7 @@ public class activity_types_of_goals extends AppCompatActivity {
         addPhysicalGoalsButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Physical_Goal.class));
             }
         });
 
@@ -41,7 +41,7 @@ public class activity_types_of_goals extends AppCompatActivity {
         addNutritionalGoalsButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Nutrition_Goal.class));
             }
         });
     }

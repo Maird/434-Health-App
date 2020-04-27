@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/weight_features3"
+        android:text="@string/eating_features3"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/weight_features2"
+        android:text="@string/eating_features2"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/muscle_features3"
+        android:text="@string/eating_features3"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,7 +51,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/muscle_features2"
+        android:text="@string/cooking_features2"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,7 +59,7 @@
         app:layout_constraintVertical_bias="0.516" />
 
     <TextView
-        android:id="@+id/physical_features2"
+        android:id="@+id/nutrition_features2"
         android:layout_width="213dp"
         android:layout_height="26dp"
         android:layout_marginStart="96dp"
@@ -73,12 +73,12 @@
         app:layout_constraintVertical_bias="0.818" />
 
     <Button
-        android:id="@+id/lose_weight_button"
+        android:id="@+id/healthy_eating_button"
         android:layout_width="227dp"
         android:layout_height="105dp"
         android:layout_marginTop="364dp"
         android:background="@drawable/custom_button"
-        android:text="@string/lose_weight"
+        android:text="@string/healthy_eating"
         android:textColor="#ffe34d"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -86,11 +86,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/new_physical_title"
+        android:id="@+id/new_nutrition_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="@string/new_physical_goal"
+        android:text="@string/new_nutrition_goal"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#4d69ff"
         android:textSize="36sp"
@@ -100,12 +100,12 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/build_muscle_button"
+        android:id="@+id/improve_cooking_button"
         android:layout_width="227dp"
         android:layout_height="105dp"
         android:layout_marginTop="144dp"
         android:background="@drawable/custom_button"
-        android:text="@string/build_muscle"
+        android:text="@string/improve_cooking"
         android:textColor="#ffe34d"
         android:textSize="24sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -118,7 +118,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/muscle_features1"
+        android:text="@string/cooking_features1"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -131,7 +131,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginLeft="56dp"
-        android:text="@string/weight_features1"
+        android:text="@string/eating_features1"
         android:textColor="@color/main"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -139,7 +139,7 @@
         app:layout_constraintVertical_bias="0.862" />
 
     <TextView
-        android:id="@+id/physical_features"
+        android:id="@+id/nutrition_features"
         android:layout_width="213dp"
         android:layout_height="26dp"
         android:layout_marginStart="92dp"
