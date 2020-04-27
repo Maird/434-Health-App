@@ -40,6 +40,15 @@ public class Goals_Activity extends AppCompatActivity {
             }
         });
 
+        Button progressButton = findViewById(R.id.progress_button);
+
+        progressButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(), ProgressGarden.class));
+            }
+        });
+
     }
 
 }
