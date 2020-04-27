@@ -27,10 +27,19 @@ public class HomeActivity extends AppCompatActivity {
         Button profileButton = findViewById(R.id.profileButton);
 
         profileButton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    startActivity(new Intent(getApplicationContext(), Profile_Activity.class));
+                }
+        });
+
+        Button checkInButton = findViewById(R.id.checkInButton);
+
+        checkInButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(getApplicationContext(), Profile_Activity.class));
-        }
-    });
-}
+                startActivity(new Intent(getApplicationContext(), Checkin_Activity.class));
+            }
+        });
+    }
 }

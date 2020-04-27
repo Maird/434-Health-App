@@ -20,7 +20,7 @@ public class Checkin_Activity extends AppCompatActivity {
         mentalGoalsBtn.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Mental_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Mental_Checkin.class));
             }
         });
 
