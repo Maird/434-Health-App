@@ -18,6 +18,9 @@
         <activity android:name=".Mental_Checkin" />
         <activity android:name=".Profile_Activity" />
 
+        <activity android:name=".Set_Confidence_Goal_popup"
+            android:theme="@style/AppTheme.popupTheme"/>
+        <activity android:name=".Set_Stress_Goal_popup" />
         <activity
             android:name=".Goals_Activity"
             android:label="@string/title_activity_goals_" />
