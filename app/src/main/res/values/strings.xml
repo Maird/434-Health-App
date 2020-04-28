@@ -28,9 +28,13 @@
     <string name="current_weight">What is your weight today?</string>
     <string name="submit_btn">SUBMIT</string>
         
-    <string name="confidence_features1"> &#8226; Words of Affirmation </string>
-    <string name="confidence_features2"> &#8226; Daily reminders to challenge yourself </string>
-    <string name="confidence_features3"> &#8226; Send you articles of ways to improve yourself </string>
+    <string name="confidence_featuresa1"> &#8226; Words of Affirmation </string>
+    <string name="confidence_featuresa2"> &#8226; Daily reminders to challenge yourself </string>
+    <string name="confidence_featuresa3"> &#8226; Send you articles of ways to improve yourself </string>
+
+    <string name="confidence_featuresb1"> Words of Affirmation </string>
+    <string name="confidence_featuresb2"> Daily reminders to challenge yourself </string>
+    <string name="confidence_featuresb3"> Send you articles of ways to improve yourself </string>
 
     <string name="stress_features1"> &#8226; Reminder to take breaks </string>
     <string name="stress_features2"> &#8226; Hourly reminders to drink water </string>
@@ -68,5 +72,7 @@
     <string name="eating_features1"> &#8226; Recommend foods to avoid </string>
     <string name="eating_features2"> &#8226; Set calorie limits </string>
     <string name="eating_features3"> &#8226; Reminder to drink water &amp; avoid snacking </string>
+
+    <string name="which_features"> Which features would you like?</string>
 
 </resources>
