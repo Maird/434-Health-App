@@ -3,16 +3,15 @@ package com.example.a434_health_app;
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
-
 import androidx.annotation.Nullable;
 
-public class Set_Stress_Goal_popup extends Activity {
+public class Set_Eating_Goal_Popup extends Activity{
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        setContentView(R.layout.set_stress_goal_popup);
+        setContentView(R.layout.set_eating_goal_popup);
 
         DisplayMetrics dm = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(dm);

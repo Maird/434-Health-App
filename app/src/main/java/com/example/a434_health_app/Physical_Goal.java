@@ -20,7 +20,7 @@ public class Physical_Goal extends AppCompatActivity {
         lose_weight_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Physical_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Weigh_Goal_Popup.class));
             }
         });
 
@@ -30,7 +30,7 @@ public class Physical_Goal extends AppCompatActivity {
         build_muscle_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Physical_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Muscle_Goal_Popup.class));
             }
         });
     }

@@ -20,7 +20,7 @@ public class Nutrition_Goal extends AppCompatActivity {
         improve_cooking_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Nutrition_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Cooking_Goal_popup.class));
             }
         });
 
@@ -30,7 +30,7 @@ public class Nutrition_Goal extends AppCompatActivity {
         healthy_eating_button.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
-                startActivity(new Intent(getApplicationContext(), Nutrition_Goal.class));
+                startActivity(new Intent(getApplicationContext(), Set_Eating_Goal_Popup.class));
             }
         });
     }

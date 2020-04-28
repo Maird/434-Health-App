@@ -32,7 +32,7 @@
         android:layout_marginTop="201dp"
         android:scaleX='1.2'
         android:scaleY='1.2'
-        android:text="@string/confidence_featuresb1"
+        android:text="@string/muscle_features1"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
@@ -50,7 +50,7 @@
         android:gravity="center_horizontal|left|center_vertical"
         android:scaleX="1.2"
         android:scaleY="1.2"
-        android:text="@string/confidence_featuresb2"
+        android:text="@string/muscle_features2"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
@@ -72,7 +72,7 @@
         android:gravity="bottom|center_horizontal"
         android:scaleX="1.2"
         android:scaleY="1.2"
-        android:text="@string/confidence_featuresb3"
+        android:text="@string/muscle_features3"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
