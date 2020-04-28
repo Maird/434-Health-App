@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="247dp"
         android:layout_marginBottom="439dp"
-        android:hint="name_hint"
+        android:hint="name"
         android:inputType="text"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -85,7 +85,7 @@
         android:id="@+id/profileDOB"
         android:layout_width="409dp"
         android:layout_height="42dp"
-        android:hint="birthday_hint"
+        android:hint="birthday"
         android:inputType="text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -106,7 +106,7 @@
         android:id="@+id/awards"
         android:layout_width="411dp"
         android:layout_height="wrap_content"
-        android:hint="awards_hint"
+        android:hint="awards"
         android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView6" />
@@ -126,7 +126,7 @@
         android:id="@+id/profileInterests"
         android:layout_width="411dp"
         android:layout_height="wrap_content"
-        android:hint="interests_hint"
+        android:hint="interests"
         android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -149,7 +149,7 @@
         android:layout_width="411dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:hint="playlists_hint"
+        android:hint="playlists"
         android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/profileInterests" />
@@ -169,7 +169,7 @@
         android:layout_width="411dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:hint="stat_hint"
+        android:hint="statistics"
         android:inputType="text"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/profilePlaylists" />
