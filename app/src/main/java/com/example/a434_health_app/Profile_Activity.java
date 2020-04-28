@@ -50,12 +50,11 @@ public class Profile_Activity extends AppCompatActivity {
                         flag = false;
                         showToast("Incorrect input of first /  in birthday " + birthday.charAt(2));
                     }
-
-                    if (birthday.charAt(5) != '/') {
+                    else if (birthday.charAt(5) != '/') {
                         flag = false;
                         showToast("Incorrect input of second / in birthday " + birthday.charAt(5));
                     }
-                    if (birthday.length() != 10) {
+                    else if (birthday.length() != 10) {
                         flag = false;
                         showToast("Incorrect birthday size");
                     }
@@ -67,12 +66,10 @@ public class Profile_Activity extends AppCompatActivity {
 
                     if (flag) {
                         showToast("Your profile has been saved!");
-                        showToast(String.valueOf(flag));
                     }
                     else
                         showToast("Incorrect input");
 
-                    showToast(String.valueOf(flag));
                 }
         });
 
