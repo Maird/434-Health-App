@@ -27,7 +27,12 @@
     <string name="jumping_jacks_exercise">Jumping Jacks</string>
     <string name="current_weight">What is your weight today?</string>
     <string name="submit_btn">SUBMIT</string>
-        
+
+    <string name="calories_check">Enter the amount of calories for this meal.</string>
+    <string name="breakfast_check">Enter what you had for breakfast here.</string>
+    <string name="lunch_check">Enter what you had for lunch here.</string>
+    <string name="dinner_check">Enter what you had for dinner here.</string>
+
     <string name="confidence_featuresa1"> &#8226; Words of Affirmation </string>
     <string name="confidence_featuresa2"> &#8226; Daily reminders to challenge yourself </string>
     <string name="confidence_featuresa3"> &#8226; Send you articles of ways to improve yourself </string>
