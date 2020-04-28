@@ -40,6 +40,10 @@
     <string name="stress_features2"> &#8226; Hourly reminders to drink water </string>
     <string name="stress_features3"> &#8226; Send you calming videos </string>
 
+    <string name="stress_features1b"> Reminder to take breaks </string>
+    <string name="stress_features2b"> Hourly reminders to drink water </string>
+    <string name="stress_features3b"> Send you calming videos </string>
+
     <string name="one_scale">Everything is a-Okay!</string>
     <string name="two_scale">Things are bothering me, but im coping.</string>
     <string name="three_scale">My mental health today really impacted my day.</string>
@@ -56,9 +60,17 @@
     <string name="weight_features2"> &#8226; Daily reminders to exercise </string>
     <string name="weight_features3"> &#8226; Words of encouragement </string>
 
+    <string name="weight_features1b"> Weight loss tips </string>
+    <string name="weight_features2b"> Daily reminders to exercise </string>
+    <string name="weight_features3b"> Words of encouragement </string>
+
     <string name="muscle_features1"> &#8226; Recommend specific exercises for targeted areas </string>
     <string name="muscle_features2"> &#8226; Reminders to eat every 3 hours </string>
-    <string name="muscle_features3"> &#8226; suggest post-workout meals &amp; supplements </string>
+    <string name="muscle_features3"> &#8226; Suggest post-workout meals &amp; supplements </string>
+
+    <string name="muscle_features1b"> Recommend specific exercises for targeted areas </string>
+    <string name="muscle_features2b"> Reminders to eat every 3 hours </string>
+    <string name="muscle_features3b"> Suggest post-workout meals &amp; supplements </string>
 
 
     <string name="new_nutrition_goal">How would you like to improve your nutrition health?</string>
@@ -69,9 +81,17 @@
     <string name="cooking_features2"> &#8226; Send you healthy and testy recipes </string>
     <string name="cooking_features3"> &#8226; Cooking tutorials </string>
 
+    <string name="cooking_features1b"> Reminders to cook instead of eating out </string>
+    <string name="cooking_features2b"> Send you healthy and testy recipes </string>
+    <string name="cooking_features3b"> Cooking tutorials </string>
+
     <string name="eating_features1"> &#8226; Recommend foods to avoid </string>
     <string name="eating_features2"> &#8226; Set calorie limits </string>
     <string name="eating_features3"> &#8226; Reminder to drink water &amp; avoid snacking </string>
+
+    <string name="eating_features1b"> Recommend foods to avoid </string>
+    <string name="eating_features2b"> Set calorie limits </string>
+    <string name="eating_features3b"> Reminder to drink water &amp; avoid snacking </string>
 
     <string name="which_features"> Which features would you like?</string>
 

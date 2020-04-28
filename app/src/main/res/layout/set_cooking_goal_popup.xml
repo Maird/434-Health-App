@@ -32,7 +32,7 @@
         android:layout_marginTop="201dp"
         android:scaleX='1.2'
         android:scaleY='1.2'
-        android:text="@string/cooking_features1"
+        android:text="@string/cooking_features1b"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
@@ -50,7 +50,7 @@
         android:gravity="center_horizontal|left|center_vertical"
         android:scaleX="1.2"
         android:scaleY="1.2"
-        android:text="@string/cooking_features2"
+        android:text="@string/cooking_features2b"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
@@ -62,17 +62,17 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_marginRight="55dp"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginStart="30dp"
         android:layout_marginLeft="30dp"
         android:layout_marginEnd="55dp"
+        android:layout_marginRight="55dp"
         android:layout_marginBottom="139dp"
-        android:gravity="bottom|center_horizontal"
+        android:gravity="left|center_vertical"
         android:scaleX="1.2"
         android:scaleY="1.2"
-        android:text="@string/cooking_features3"
+        android:text="@string/cooking_features3b"
         android:textColor="@color/main"
         android:textSize="18sp" />
 
