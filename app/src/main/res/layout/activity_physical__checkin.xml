@@ -44,7 +44,7 @@
             android:onClick="checkButton"
             android:text="@string/walking_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
         <RadioButton
             android:id="@+id/radio_two"
@@ -53,7 +53,7 @@
             android:onClick="checkButton"
             android:text="@string/jogging_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
         <RadioButton
             android:id="@+id/radio_three"
@@ -62,7 +62,7 @@
             android:onClick="checkButton"
             android:text="@string/cycling_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
         <RadioButton
             android:id="@+id/radio_four"
@@ -71,7 +71,7 @@
             android:onClick="checkButton"
             android:text="@string/squats_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
         <RadioButton
             android:id="@+id/radio_five"
@@ -80,7 +80,7 @@
             android:onClick="checkButton"
             android:text="@string/pushups_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
         <RadioButton
             android:id="@+id/radio_six"
@@ -89,7 +89,7 @@
             android:onClick="checkButton"
             android:text="@string/jumping_jacks_exercise"
             android:textColor="#4d69ff"
-            android:textSize="28sp" />
+            android:textSize="22sp" />
 
 
     </RadioGroup>
