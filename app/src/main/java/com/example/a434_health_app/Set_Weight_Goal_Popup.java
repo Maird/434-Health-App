@@ -6,7 +6,7 @@ import android.util.DisplayMetrics;
 
 import androidx.annotation.Nullable;
 
-public class Set_Weigh_Goal_Popup extends Activity{
+public class Set_Weight_Goal_Popup extends Activity{
 
 
 

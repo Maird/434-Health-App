@@ -18,6 +18,10 @@
         <activity android:name=".Checkin_Activity" />
         <activity android:name=".Mental_Checkin" />
         <activity android:name=".Profile_Activity" />
+        <activity android:name=".Set_Muscle_Goal_Popup"/>
+        <activity android:name=".Set_Weight_Goal_Popup"/>
+        <activity android:name=".Set_Eating_Goal_Popup"/>
+        <activity android:name=".Set_Cooking_Goal_popup"/>
 
         <activity android:name=".Set_Confidence_Goal_popup"
             android:theme="@style/AppTheme.popupTheme"/>
